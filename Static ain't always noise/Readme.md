@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```bash
 ──(kali㉿kali)-[~]
 └─$ cd Downloads
@@ -120,3 +121,6 @@ __cxa_finalize@@GLIBC_2.2.5
 .bss
 .comment
 ```
+=======
+
+>>>>>>> caa73ac9b63646dbda9847c209fe1979e22b34fe
